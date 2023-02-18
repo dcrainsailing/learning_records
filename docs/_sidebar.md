@@ -2,4 +2,4 @@
   - 2023年2月 CS224W图机器学习
     - Task01 图机器学习导论
     - Task02 图的基本表示和特征工程
-    - [Task03 NetworkX工具包实战](202302/task03.md)
+    - [Task03 NetworkX工具包实战](202302/task3.md)

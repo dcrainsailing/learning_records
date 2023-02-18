@@ -4,7 +4,7 @@
 
 ## 在线阅读地址
 
-在线阅读地址：
+在线阅读地址： https://dcrainsailing.github.io/learning_records/
 
 ## 目录
 

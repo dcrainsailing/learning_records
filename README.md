@@ -1,4 +1,4 @@
-# 组队学习记录 {docsify-ignore-all}
+# 组队学习记录
 
 记录参加过的Datawhale各期组队学习Notes，施工中
 

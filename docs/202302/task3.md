@@ -62,12 +62,12 @@ for ax in axes_list:
 
 ### 更多内置图
 
-nx.diamond_graph() 
-nx.bull_graph() 
-nx.frucht_graph() 
-nx.house_graph() 
-nx.house_x_graph() 
-nx.petersen_graph() 
+nx.diamond_graph() \
+nx.bull_graph() \
+nx.frucht_graph() \ 
+nx.house_graph() \
+nx.house_x_graph() \ 
+nx.petersen_graph() \
 nx.krackhardt_kite_graph()
 
 ## 连接表和邻接表创建图
@@ -246,7 +246,7 @@ nx.draw(G)
 
 
 ### Tips
-节点可以为任意可哈希的对象，比如字符串、图像、XML对象，甚至另一个Graph、自定义的节点对象。
+节点可以为任意可哈希的对象，比如字符串、图像、XML对象，甚至另一个Graph、自定义的节点对象。\
 通过这种方式，你可以根据你的应用，自由灵活地构建：图为节点、文件为节点、函数为节点，等灵活的图形式。
 
 ### 创建连单个连接，设置属性特征
@@ -796,14 +796,14 @@ plt.show()
 
 ## 图数据分析
 
-半径：nx.radius(G) 
-直径：nx.diameter(G) 
-偏心度：nx.eccentricity(G) 
-中心节点，偏心度与半径相等的节点：nx.center(G) 
+半径：nx.radius(G) \
+直径：nx.diameter(G) \
+偏心度：nx.eccentricity(G) \ 
+中心节点，偏心度与半径相等的节点：nx.center(G) \
 外围节点，偏心度与直径相等的节点：nx.periphery(G)
 
-density：
-n为节点个数，m为连接个数
+density：\
+n为节点个数，m为连接个数 \
 对于无向图：
 $$
 \text { density }=\frac{2 m}{n(n-1)}
@@ -815,7 +815,7 @@ $$
 \text { density }=\frac{m}{n(n-1)}
 $$
 
-无连接图的density为0，全连接图的density为1，Multigraph（多重连接图）和带self loop图的density可能大于1。
+无连接图的density为0，全连接图的density为1，Multigraph（多重连接图）和带self loop图的density可能大于1。\
 
 节点到图中其它节点的最短距离：nx.single_source_shortest_path_length(G, node_id)
 
@@ -1022,7 +1022,7 @@ draw(G, pos, nx.clustering(G), 'Clustering Coefficient')
 
 
 ### Bridges
-如果某个连接断掉，会使连通域个数增加，则该连接是bridges。
+如果某个连接断掉，会使连通域个数增加，则该连接是bridges。\
 bridge连接不属于环的一部分。
 
 
@@ -1226,5 +1226,4 @@ plt.show()
 
 ![png](images/task3/output_148_0.png)
     
-
 

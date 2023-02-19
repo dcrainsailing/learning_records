@@ -55,9 +55,7 @@ $$
 
 提取Z矩阵的某一列（一个节点的嵌入向量）
 $$
-\operatorname{ENC}(v)=\mathbf{z}_{v}=\mathbf{Z} \cdot v \\
-\mathbf{Z} \in \mathbb{R}^{d \times|\mathcal{V}|} ,\
-v \in \mathbb{I}^{|\mathcal{V}|}
+\begin{aligned} \mathrm{ENC}(v) & =\mathbf{z}_{v}=\mathbf{Z} \cdot v \\ \mathbf{Z} & \in \mathbb{R}^{d \times|\mathcal{V}|} \\ v & \in \mathbb{I}^{|\mathcal{V}|}\end{aligned}
 $$
 
 #### 解码器

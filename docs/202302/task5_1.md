@@ -14,7 +14,7 @@
 * CBOW：输入周围词预测中心词
 * Skip-Gram：输入中心词预测周围词
 
-![WechatIMG1](/Users/dc/Desktop/learning_records/docs/202302/images/task5_1/WechatIMG1.jpeg)
+![WechatIMG1](images/task5_1/WechatIMG1.jpeg)
 
 两种方法，构造语言模型中自监督问题，编码词向量，反映词相似性。
 

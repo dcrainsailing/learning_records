@@ -12,7 +12,8 @@
   - Task01 图机器学习导论
   - Task02 图的基本表示和特征工程
   - Task03 NetworkX工具包实战
-  - Task 04 图嵌入表示学习
-  - Task 05 DeepWalk、Node2Vec论文精读
+  - Task04 图嵌入表示学习
+  - Task05 DeepWalk、Node2Vec论文精读
     - DeepWalk
     - Node2Vec
+  - Task06 PageRank

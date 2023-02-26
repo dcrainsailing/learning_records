@@ -4,6 +4,7 @@
     - Task02 图的基本表示和特征工程
     - [Task03 NetworkX工具包实战](202302/task3.md)
     - [Task04 图嵌入表示学习](202302/task4.md)
-    - [Task 05 DeepWalk、Node2Vec论文精读](202302/task5.md)
+    - [Task05 DeepWalk、Node2Vec论文精读](202302/task5.md)
       - [DeepWalk](202302/task5_1.md)
       - [Node2Vec](202302/task5_2.md)
+    - [Task06 PageRank](202302/task6.md)

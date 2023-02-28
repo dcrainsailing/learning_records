@@ -17,3 +17,4 @@
     - DeepWalk
     - Node2Vec
   - Task06 PageRank
+  - Task07 半监督节点分类：标签传播和消息传递

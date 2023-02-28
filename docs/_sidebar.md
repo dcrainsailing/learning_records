@@ -8,3 +8,4 @@
       - [DeepWalk](202302/task5_1.md)
       - [Node2Vec](202302/task5_2.md)
     - [Task06 PageRank](202302/task6.md)
+    - [Task07 半监督节点分类：标签传播和消息传递](202302/task7.md)
